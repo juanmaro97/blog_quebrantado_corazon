@@ -1,2 +1,2 @@
-# blog_quebrantado_corazon
-Blog cristiano con contenido bíblico
+# Blog Quebrantado Corazón
+Blog cristiano con contenido bíblico.
